@@ -1,12 +1,11 @@
-https://www.aclweb.org/anthology/E06-1015.pdf
-
+# To unzip data file
 
 # from zipfile import ZipFile
 # with ZipFile("data_7000_new.csv.zip",'r') as zip:
 #   zip.extractall()
 #   print("Done")
 
-#Authors: Afia Anjum & Shruthi Ravishankar
+#Authors: Shruthi Ravishankar, Afia Anjum 
 
 #importing various modules and libraries
 import nltk
